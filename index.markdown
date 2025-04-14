@@ -11,6 +11,7 @@ layout: default
     <td><strong>📄Paper (TBA)</strong></td>
     <td><a href="https://agent-reward-bench.github.io"><strong>🌐Website</strong></a></td>
     <td><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard"><strong>🏆Leaderboard</strong></a></td>
+    <td><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-demo"><strong>💻Demo</strong></a></td>
   </tr>
 </table>
 
