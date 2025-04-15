@@ -88,11 +88,11 @@ snapshot_download(
 
 ## Leaderboard
 
-You can find the ranking of automatic evaluators, including LLM judges, on [the Huggingface leaderboard](https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard). You can also see the breakdown by benchmark, allowing 
+You can find the ranking of automatic evaluators, including LLM judges, on [the Huggingface leaderboard](https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard). You can also see the breakdown by benchmark, allowing you to find the best performing LLM judge for your tasks.
 
 ### Submission
 
-To submit your results, please [open an issue on the GitHub repository](https://github.com/McGill-NLP/agent-reward-bench/issues) with your results and a link to your paper/artifacts.
+To submit your results, please [open an issue on the GitHub repository](https://github.com/McGill-NLP/agent-reward-bench/issues/new?template=add-results-to-leaderboard.yml) with your results and a link to your paper/artifacts.
 
 ## Citation
 
