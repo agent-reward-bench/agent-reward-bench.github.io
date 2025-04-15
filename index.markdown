@@ -7,14 +7,14 @@ layout: default
 
 <table>
   <tr>
-    <td><a href="https://github.com/McGill-NLP/agent-reward-bench"><strong>💾Code</strong></a></td>
-    <td><a href="https://arxiv.org/abs/2504.08942"><strong>📄Paper</strong></a></td>
-    <td><a href="https://agent-reward-bench.github.io"><strong>🌐Website</strong></a></td>
+    <td align="center"><a href="https://github.com/McGill-NLP/agent-reward-bench"><strong>💾 Code</strong></a></td>
+    <td align="center"><a href="https://arxiv.org/abs/2504.08942"><strong>📄 Paper</strong></a></td>
+    <td align="center"><a href="https://agent-reward-bench.github.io"><strong>🌐 Website</strong></a></td>
   </tr>
   <tr>
-    <td><a href="https://huggingface.co/datasets/McGill-NLP/agent-reward-bench"><strong>🤗Dataset</strong></a></td>
-    <td><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-demo"><strong>💻Demo</strong></a></td>
-    <td><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard"><strong>🏆Leaderboard</strong></a></td>
+    <td align="center"><a href="https://huggingface.co/datasets/McGill-NLP/agent-reward-bench"><strong>🤗 Dataset</strong></a></td>
+    <td align="center"><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-demo"><strong>💻 Demo</strong></a></td>
+    <td align="center"><a href="https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard"><strong>🏆 Leaderboard</strong></a></td>
   </tr>
 </table>
 
